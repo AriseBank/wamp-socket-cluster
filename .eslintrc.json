@@ -1,0 +1,6 @@
+{
+  "extends": ["arisecoin-base"],
+  "env": {
+    "node": true
+  }
+}
